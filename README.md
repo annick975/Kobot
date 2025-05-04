@@ -81,13 +81,23 @@ A fullstack web application for job listings in Rwanda, similar to jobinrwanda.c
 ## 👥 Contributors
 
 
-
-
+<table>
+  <tr>
+    <td align="center">
       <a href="https://github.com/annick975">
-        
+        <br />
+        <sub><b>annick975</b></sub>
       </a>
-      
+      <br />
+      <small>Frontend</small>
+    </td>
+    <td align="center">
       <a href="https://github.com/elllyers">
-        
+        <br />
+        <sub><b>elllyers</b></sub>
       </a>
-      
+      <br />
+      <small>Backend</small>
+    </td>
+  </tr>
+</table>
