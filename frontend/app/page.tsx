@@ -1,6 +1,6 @@
-import { fetchJobs } from "@/lib/api";
-import JobCard from "@/components/JobCard";
-import { Job } from "@/lib/types";
+import { fetchJobs } from "../lib/api";
+import JobCard from "../components/JobCard";
+import { Job } from "../lib/types";
 
 export default async function Home() {
   const jobs: Job[] = await fetchJobs();

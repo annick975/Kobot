@@ -37,7 +37,7 @@ A fullstack web application for job listings in Rwanda, similar to jobinrwanda.c
 1. Clone the repository
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/annick975/Kobot
    cd rwanda-jobs
    ```
 
