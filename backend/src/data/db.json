@@ -1,0 +1,36 @@
+{
+  "jobs": [
+    {
+      "id": "1234abcd",
+      "title": "Software Engineer",
+      "company": "RwandaTech Solutions",
+      "location": "Kigali, Rwanda",
+      "description": "We are seeking a skilled Software Engineer to join our team in Kigali. The ideal candidate will have experience with modern web technologies and be passionate about building high-quality software products.",
+      "howToApply": "Email your resume to careers@rwandatech.com"
+    },
+    {
+      "id": "5678efgh",
+      "title": "Marketing Manager",
+      "company": "Kigali Business Group",
+      "location": "Kigali, Rwanda",
+      "description": "A growing company in the heart of Kigali is looking for a Marketing Manager to lead our marketing efforts. This role requires creativity, strategic thinking, and excellent communication skills.",
+      "howToApply": "Apply through our website: https://kigalibusiness.rw/careers"
+    },
+    {
+      "id": "90ijklmn",
+      "title": "Project Coordinator",
+      "company": "Rwanda Development Initiative",
+      "location": "Musanze, Rwanda",
+      "description": "The Project Coordinator will be responsible for overseeing various development projects across the Northern Province. This is an excellent opportunity for someone with strong organizational skills and a passion for community development.",
+      "howToApply": "Send your CV and cover letter to jobs@rwandadi.org"
+    },
+    {
+      "id": "2a5a0a7a286d6b53",
+      "title": "Frontend Developer",
+      "company": "Kigali kicks",
+      "location": "Rwanda",
+      "description": "FGHJKLKJSBDNNMSNC",
+      "howToApply": "XMNZMCZ"
+    }
+  ]
+}
