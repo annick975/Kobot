@@ -38,7 +38,7 @@ A fullstack web application for job listings in Rwanda, similar to jobinrwanda.c
 
    ```bash
    git clone https://github.com/annick975/Kobot
-   cd rwanda-jobs
+   cd Kobot
    ```
 
 2. Install dependencies for the backend
@@ -77,3 +77,30 @@ A fullstack web application for job listings in Rwanda, similar to jobinrwanda.c
 - `GET /jobs` – Returns all jobs
 - `GET /jobs/:id` – Returns a specific job by ID
 - `POST /jobs` – Creates a new job listing
+
+## 👥 Contributors
+
+Thanks to these amazing people:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/annick975">
+        <img src="https://avatars.githubusercontent.com/u/annick975?v=4" width="100px;" alt="annick975"/>
+        <br />
+        <sub><b>annick975</b></sub>
+      </a>
+      <br />
+      <small>💻 Code | 🎨 Design</small>
+    </td>
+    <td align="center">
+      <a href="https://github.com/elllyers">
+        <img src="https://avatars.githubusercontent.com/u/elllyers?v=4" width="100px;" alt="elllyers"/>
+        <br />
+        <sub><b>elllyers</b></sub>
+      </a>
+      <br />
+      <small>💻 Code | 📖 Docs</small>
+    </td>
+  </tr>
+</table>
